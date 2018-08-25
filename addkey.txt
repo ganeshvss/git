@@ -22,3 +22,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAywWhrwq4FjHt+UuwZcZePxtjtZOENFpOjufycaYso2nT
 goto github-->settings--->ssh---->add new key---->id_rsa.pub
 
 $git push git@<git-hub url>
+done
